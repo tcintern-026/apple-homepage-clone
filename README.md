@@ -67,6 +67,7 @@ apple-homepage-clone/
 └── images/
 ```
 
+
 ## Future Improvements
 
 * Add an interactive mobile navigation menu
